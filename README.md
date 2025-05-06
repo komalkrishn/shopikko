@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
-Shopikko personal project
+Shopikko personal project, to buy products
 
 ## Deploy on Vercel
 
